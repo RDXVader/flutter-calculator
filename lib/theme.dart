@@ -15,7 +15,7 @@ ThemeData darkTheme = ThemeData(
   brightness: Brightness.dark,
   primarySwatch: Colors.indigo,
   accentColor: Colors.pink,
-  scaffoldBackgroundColor: Color(0xFF555A60),
+  scaffoldBackgroundColor: Color(0xFF100f0e),
   fontFamily: AppFonts.primaryFont,
   iconTheme: IconThemeData(
     color: CustomColors.primaryColor

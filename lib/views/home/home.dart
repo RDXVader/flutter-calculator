@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
     final historyBtn = GestureDetector(
       onTap: () => Navigator.of(context).pushNamed(router.historyViewRoute),
       child: Text(
-        "History",
+        "",
         style: TextStyle(
           fontSize: 18.0,
           color: theme.isDarkTheme

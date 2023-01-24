@@ -37,7 +37,7 @@ class EmptyState extends StatelessWidget {
               message.toUpperCase(),
               textAlign: TextAlign.center,
               style: TextStyle(
-                color: Theme.of(context).textTheme.display1.color,
+                color: Theme.of(context).textTheme.displayMedium.color,
                 fontSize: fontSize,
                 fontWeight: fontWeight,
               ),
